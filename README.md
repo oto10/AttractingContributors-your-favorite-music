@@ -35,3 +35,4 @@ I would like you to tell me your favorite music.
 8. 青春なんていらないわ / 三月のパンタシア
 9. 灯火 / Vaundy
 10. Give it away / Red Hot Chili Peppers
+11. Through the night/IU
