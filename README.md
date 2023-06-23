@@ -36,3 +36,4 @@ I would like you to tell me your favorite music.
 9. 灯火 / Vaundy
 10. Give it away / Red Hot Chili Peppers
 11. Through the night/IU
+12. 脳裏上のクラッカー / ずっと真夜中でいいのに
