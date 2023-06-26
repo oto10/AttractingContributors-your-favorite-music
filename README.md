@@ -16,6 +16,7 @@ List of Favorite Food
 9. tonkatsu
 8. omelet
 9. Sashimi
+10. Teriyaki burger
 10. Soumen
 10. chicken
 11. apple
