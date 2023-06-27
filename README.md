@@ -37,3 +37,4 @@ I would like you to tell me your favorite music.
 10. Give it away / Red Hot Chili Peppers
 11. Through the night/IU
 12. 脳裏上のクラッカー / ずっと真夜中でいいのに
+13. We are the World
