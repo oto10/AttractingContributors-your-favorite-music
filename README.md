@@ -25,3 +25,4 @@ it's Japanese!!!
 - Ubuntu (especially 20.04)
 - Ubuntu
 - CentOS
+- Ubuntu
