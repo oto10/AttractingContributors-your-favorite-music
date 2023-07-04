@@ -18,6 +18,7 @@ it's Japanese!!!
 # Your favorite distribution.
 - Ubuntu
 - Fedora
+- Ubuntu(from: tomoyasuzuki)
 - Ubuntu-bionic-beaber
 - Ubuntu
 - Kali Linux
