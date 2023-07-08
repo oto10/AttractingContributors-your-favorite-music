@@ -6,4 +6,5 @@ genre, tytle, everything is OK.
 1. "kawaii future bass"
 2. "city pop"
 3. "rock"
+4. "EDM"
 
